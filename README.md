@@ -1,6 +1,6 @@
 # 🎮 GePetris
 
-A retro-styled Tetris built in a single HTML file (Canvas + JS).  
+A retro-styled Tetris built in a single HTML file by ChatGPT & Gemini 2.5 Pro (Canvas + JS).  
 Supports **Keyboard + Mouse + Controller** (Works with standard gamepads).  
 Includes ghost piece, DAS, wall kicks, banners, SFX, and controller vibration.
 
