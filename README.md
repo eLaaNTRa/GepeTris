@@ -42,7 +42,6 @@ Includes ghost piece, DAS, wall kicks, banners, SFX, and controller vibration.
   - 2 lines → 2-note chime  
   - 3 lines → 3-note run + “Triple Clear!” banner  
   - 4 lines → **“Boom! Tetris!”** + bassy boom + controller rumble  
-
 > Audio starts after your first interaction (browser autoplay policy).
 
 ## ⚙️ Rotation Mode
